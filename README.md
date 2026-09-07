@@ -1,2 +1,32 @@
-Last updated: 2026-09-07 08:19:53 WIB
-Last updated: 2026-09-07 09:11:42 WIB
+# gpt4free
+
+
+
+## 📋 Overview
+
+This repository contains **116 files** and is built with the following technologies:
+
+Docker
+
+## 🚀 Quick Start
+
+```bash
+pip install -r requirements.txt
+python main.py
+```
+
+## ✨ Features
+
+- 🐳 Docker support
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Docker
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-07 11:28:20 WIB*
